@@ -4,7 +4,7 @@ While the
 [SliceMK Keymap Configurator](https://config.slicemk.com/zmk/) is recommended
 for the majority of users, the GitHub Actions workflow provides some additional
 options for customization.
-
+y
 If you have questions, feel free to join the
 [SliceMK Discord](https://discord.gg/FQvyd7BAaA).
 
